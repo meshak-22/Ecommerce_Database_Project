@@ -1,0 +1,901 @@
+product_id,product_name,category_id,price,stock_quantity
+1,"Air Conditioners 3",20,3250.00,85
+2,"Air Conditioners 2",20,2500.00,70
+3,"Air Conditioners 1",20,1750.00,55
+4,"Art Supplies 3",70,4500.00,135
+5,"Art Supplies 2",70,3750.00,120
+6,"Art Supplies 1",70,3000.00,105
+7,"Automotive 3",81,4775.00,146
+8,"Automotive 2",81,4025.00,131
+9,"Automotive 1",81,3275.00,116
+10,"Baby Care 3",75,4625.00,140
+11,"Baby Care 2",75,3875.00,125
+12,"Baby Care 1",75,3125.00,110
+13,"Baby Clothing 3",74,4600.00,139
+14,"Baby Clothing 2",74,3850.00,124
+15,"Baby Clothing 1",74,3100.00,109
+16,"Baby Products 3",73,4575.00,138
+17,"Baby Products 2",73,3825.00,123
+18,"Baby Products 1",73,3075.00,108
+19,"Backpacks 3",48,3950.00,113
+20,"Backpacks 2",48,3200.00,98
+21,"Backpacks 1",48,2450.00,83
+22,"Bags 3",47,3925.00,112
+23,"Bags 2",47,3175.00,97
+24,"Bags 1",47,2425.00,82
+25,"Bakeware 3",23,3325.00,88
+26,"Bakeware 2",23,2575.00,73
+27,"Bakeware 1",23,1825.00,58
+28,"Beauty 3",55,4125.00,120
+29,"Beauty 2",55,3375.00,105
+30,"Beauty 1",55,2625.00,90
+31,"Bedding 3",28,3450.00,93
+32,"Bedding 2",28,2700.00,78
+33,"Bedding 1",28,1950.00,63
+34,"Beverages 3",89,4975.00,154
+35,"Beverages 2",89,4225.00,139
+36,"Beverages 1",89,3475.00,124
+37,"Bike Accessories 3",83,4825.00,148
+38,"Bike Accessories 2",83,4075.00,133
+39,"Bike Accessories 1",83,3325.00,118
+40,"Bluetooth Speakers 3",13,3075.00,78
+41,"Bluetooth Speakers 2",13,2325.00,63
+42,"Bluetooth Speakers 1",13,1575.00,48
+43,"Books 3",61,4275.00,126
+44,"Books 2",61,3525.00,111
+45,"Books 1",61,2775.00,96
+46,"Camera Accessories 3",11,3025.00,76
+47,"Camera Accessories 2",11,2275.00,61
+48,"Camera Accessories 1",11,1525.00,46
+49,"Cameras 3",10,3000.00,75
+50,"Cameras 2",10,2250.00,60
+51,"Cameras 1",10,1500.00,45
+52,"Car Accessories 3",82,4800.00,147
+53,"Car Accessories 2",82,4050.00,132
+54,"Car Accessories 1",82,3300.00,117
+55,"Carpets 3",30,3500.00,95
+56,"Carpets 2",30,2750.00,80
+57,"Carpets 1",30,2000.00,65
+58,"Cleaning Supplies 3",92,5050.00,157
+59,"Cleaning Supplies 2",92,4300.00,142
+60,"Cleaning Supplies 1",92,3550.00,127
+61,"Clothing 3",31,3525.00,96
+62,"Clothing 2",31,2775.00,81
+63,"Clothing 1",31,2025.00,66
+64,"Computer Accessories 3",7,2925.00,72
+65,"Computer Accessories 2",7,2175.00,57
+66,"Computer Accessories 1",7,1425.00,42
+67,"Computer Books 3",65,4375.00,130
+68,"Computer Books 2",65,3625.00,115
+69,"Computer Books 1",65,2875.00,100
+70,"Cookware 3",22,3300.00,87
+71,"Cookware 2",22,2550.00,72
+72,"Cookware 1",22,1800.00,57
+73,"Curtains 3",29,3475.00,94
+74,"Curtains 2",29,2725.00,79
+75,"Curtains 1",29,1975.00,64
+76,"Educational Books 3",62,4300.00,127
+77,"Educational Books 2",62,3550.00,112
+78,"Educational Books 1",62,2800.00,97
+79,"Electronics 3",1,2775.00,66
+80,"Electronics 2",1,2025.00,51
+81,"Electronics 1",1,1275.00,36
+82,"Fiction Books 3",63,4325.00,128
+83,"Fiction Books 2",63,3575.00,113
+84,"Fiction Books 1",63,2825.00,98
+85,"Fitness Equipment 3",77,4675.00,142
+86,"Fitness Equipment 2",77,3925.00,127
+87,"Fitness Equipment 1",77,3175.00,112
+88,"Formal Wear 3",38,3700.00,103
+89,"Formal Wear 2",38,2950.00,88
+90,"Formal Wear 1",38,2200.00,73
+91,"Furniture 3",24,3350.00,89
+92,"Furniture 2",24,2600.00,74
+93,"Furniture 1",24,1850.00,59
+94,"Games 3",72,4550.00,137
+95,"Games 2",72,3800.00,122
+96,"Games 1",72,3050.00,107
+97,"Gaming 3",95,5125.00,160
+98,"Gaming 2",95,4375.00,145
+99,"Gaming 1",95,3625.00,130
+100,"Gaming Accessories 3",96,5150.00,161
+101,"Gaming Accessories 2",96,4400.00,146
+102,"Gaming Accessories 1",96,3650.00,131
+103,"Gardening 3",85,4875.00,150
+104,"Gardening 2",85,4125.00,135
+105,"Gardening 1",85,3375.00,120
+106,"Gift Items 3",98,5200.00,163
+107,"Gift Items 2",98,4450.00,148
+108,"Gift Items 1",98,3700.00,133
+109,"Groceries 3",87,4925.00,152
+110,"Groceries 2",87,4175.00,137
+111,"Groceries 1",87,3425.00,122
+112,"Gym Accessories 3",80,4750.00,145
+113,"Gym Accessories 2",80,4000.00,130
+114,"Gym Accessories 1",80,3250.00,115
+115,"Haircare 3",57,4175.00,122
+116,"Haircare 2",57,3425.00,107
+117,"Haircare 1",57,2675.00,92
+118,"Handbags 3",49,3975.00,114
+119,"Handbags 2",49,3225.00,99
+120,"Handbags 1",49,2475.00,84
+121,"Headphones 3",12,3050.00,77
+122,"Headphones 2",12,2300.00,62
+123,"Headphones 1",12,1550.00,47
+124,"Health Care 3",91,5025.00,156
+125,"Health Care 2",91,4275.00,141
+126,"Health Care 1",91,3525.00,126
+127,"Home Appliances 3",16,3150.00,81
+128,"Home Appliances 2",16,2400.00,66
+129,"Home Appliances 1",16,1650.00,51
+130,"Home Decor 3",26,3400.00,91
+131,"Home Decor 2",26,2650.00,76
+132,"Home Decor 1",26,1900.00,61
+133,"Home Security 3",99,5225.00,164
+134,"Home Security 2",99,4475.00,149
+135,"Home Security 1",99,3725.00,134
+136,"Indoor Games 3",79,4725.00,144
+137,"Indoor Games 2",79,3975.00,129
+138,"Indoor Games 1",79,3225.00,114
+139,"Jeans 3",37,3675.00,102
+140,"Jeans 2",37,2925.00,87
+141,"Jeans 1",37,2175.00,72
+142,"Jewelry 3",52,4050.00,117
+143,"Jewelry 2",52,3300.00,102
+144,"Jewelry 1",52,2550.00,87
+145,"Kids Clothing 3",34,3600.00,99
+146,"Kids Clothing 2",34,2850.00,84
+147,"Kids Clothing 1",34,2100.00,69
+148,"Kids Shoes 3",44,3850.00,109
+149,"Kids Shoes 2",44,3100.00,94
+150,"Kids Shoes 1",44,2350.00,79
+151,"Kitchen Appliances 3",17,3175.00,82
+152,"Kitchen Appliances 2",17,2425.00,67
+153,"Kitchen Appliances 1",17,1675.00,52
+154,"Laptop Accessories 3",5,2875.00,70
+155,"Laptop Accessories 2",5,2125.00,55
+156,"Laptop Accessories 1",5,1375.00,40
+157,"Laptops 3",4,2850.00,69
+158,"Laptops 2",4,2100.00,54
+159,"Laptops 1",4,1350.00,39
+160,"Lighting 3",27,3425.00,92
+161,"Lighting 2",27,2675.00,77
+162,"Lighting 1",27,1925.00,62
+163,"Makeup 3",58,4200.00,123
+164,"Makeup 2",58,3450.00,108
+165,"Makeup 1",58,2700.00,93
+166,"Mens Clothing 3",32,3550.00,97
+167,"Mens Clothing 2",32,2800.00,82
+168,"Mens Clothing 1",32,2050.00,67
+169,"Mens Shoes 3",42,3800.00,107
+170,"Mens Shoes 2",42,3050.00,92
+171,"Mens Shoes 1",42,2300.00,77
+172,"Mens T-Shirts 3",35,3625.00,100
+173,"Mens T-Shirts 2",35,2875.00,85
+174,"Mens T-Shirts 1",35,2125.00,70
+175,"Microwaves 3",21,3275.00,86
+176,"Microwaves 2",21,2525.00,71
+177,"Microwaves 1",21,1775.00,56
+178,"Mobile Accessories 3",3,2825.00,68
+179,"Mobile Accessories 2",3,2075.00,53
+180,"Mobile Accessories 1",3,1325.00,38
+181,"Mobile Phones 3",2,2800.00,67
+182,"Mobile Phones 2",2,2050.00,52
+183,"Mobile Phones 1",2,1300.00,37
+184,"Monitors 3",8,2950.00,73
+185,"Monitors 2",8,2200.00,58
+186,"Monitors 1",8,1450.00,43
+187,"Musical Instruments 3",94,5100.00,159
+188,"Musical Instruments 2",94,4350.00,144
+189,"Musical Instruments 1",94,3600.00,129
+190,"Non-Fiction Books 3",64,4350.00,129
+191,"Non-Fiction Books 2",64,3600.00,114
+192,"Non-Fiction Books 1",64,2850.00,99
+193,"Notebooks 3",69,4475.00,134
+194,"Notebooks 2",69,3725.00,119
+195,"Notebooks 1",69,2975.00,104
+196,"Office Furniture 3",25,3375.00,90
+197,"Office Furniture 2",25,2625.00,75
+198,"Office Furniture 1",25,1875.00,60
+199,"Organic Food 3",90,5000.00,155
+200,"Organic Food 2",90,4250.00,140
+201,"Organic Food 1",90,3500.00,125
+202,"Outdoor Sports 3",78,4700.00,143
+203,"Outdoor Sports 2",78,3950.00,128
+204,"Outdoor Sports 1",78,3200.00,113
+205,"Pens 3",68,4450.00,133
+206,"Pens 2",68,3700.00,118
+207,"Pens 1",68,2950.00,103
+208,"Perfumes 3",59,4225.00,124
+209,"Perfumes 2",59,3475.00,109
+210,"Perfumes 1",59,2725.00,94
+211,"Personal Care 3",60,4250.00,125
+212,"Personal Care 2",60,3500.00,110
+213,"Personal Care 1",60,2750.00,95
+214,"Pet Supplies 3",86,4900.00,151
+215,"Pet Supplies 2",86,4150.00,136
+216,"Pet Supplies 1",86,3400.00,121
+217,"Printers 3",9,2975.00,74
+218,"Printers 2",9,2225.00,59
+219,"Printers 1",9,1475.00,44
+220,"Refrigerators 3",18,3200.00,83
+221,"Refrigerators 2",18,2450.00,68
+222,"Refrigerators 1",18,1700.00,53
+223,"Sandals 3",46,3900.00,111
+224,"Sandals 2",46,3150.00,96
+225,"Sandals 1",46,2400.00,81
+226,"School Supplies 3",66,4400.00,131
+227,"School Supplies 2",66,3650.00,116
+228,"School Supplies 1",66,2900.00,101
+229,"Shoes 3",41,3775.00,106
+230,"Shoes 2",41,3025.00,91
+231,"Shoes 1",41,2275.00,76
+232,"Skincare 3",56,4150.00,121
+233,"Skincare 2",56,3400.00,106
+234,"Skincare 1",56,2650.00,91
+235,"Smart Home Devices 3",100,5250.00,165
+236,"Smart Home Devices 2",100,4500.00,150
+237,"Smart Home Devices 1",100,3750.00,135
+238,"Smart Watches 3",14,3100.00,79
+239,"Smart Watches 2",14,2350.00,64
+240,"Smart Watches 1",14,1600.00,49
+241,"Snacks 3",88,4950.00,153
+242,"Snacks 2",88,4200.00,138
+243,"Snacks 1",88,3450.00,123
+244,"Software 3",97,5175.00,162
+245,"Software 2",97,4425.00,147
+246,"Software 1",97,3675.00,132
+247,"Sports 3",76,4650.00,141
+248,"Sports 2",76,3900.00,126
+249,"Sports 1",76,3150.00,111
+250,"Sports Shoes 3",45,3875.00,110
+251,"Sports Shoes 2",45,3125.00,95
+252,"Sports Shoes 1",45,2375.00,80
+253,"Sports Wear 3",39,3725.00,104
+254,"Sports Wear 2",39,2975.00,89
+255,"Sports Wear 1",39,2225.00,74
+256,"Stationery 3",67,4425.00,132
+257,"Stationery 2",67,3675.00,117
+258,"Stationery 1",67,2925.00,102
+259,"Sunglasses 3",54,4100.00,119
+260,"Sunglasses 2",54,3350.00,104
+261,"Sunglasses 1",54,2600.00,89
+262,"Tablets 3",6,2900.00,71
+263,"Tablets 2",6,2150.00,56
+264,"Tablets 1",6,1400.00,41
+265,"Televisions 3",15,3125.00,80
+266,"Televisions 2",15,2375.00,65
+267,"Televisions 1",15,1625.00,50
+268,"Tools 3",84,4850.00,149
+269,"Tools 2",84,4100.00,134
+270,"Tools 1",84,3350.00,119
+271,"Toys 3",71,4525.00,136
+272,"Toys 2",71,3775.00,121
+273,"Toys 1",71,3025.00,106
+274,"Travel Accessories 3",93,5075.00,158
+275,"Travel Accessories 2",93,4325.00,143
+276,"Travel Accessories 1",93,3575.00,128
+277,"Travel Bags 3",50,4000.00,115
+278,"Travel Bags 2",50,3250.00,100
+279,"Travel Bags 1",50,2500.00,85
+280,"Wallets 3",51,4025.00,116
+281,"Wallets 2",51,3275.00,101
+282,"Wallets 1",51,2525.00,86
+283,"Washing Machines 3",19,3225.00,84
+284,"Washing Machines 2",19,2475.00,69
+285,"Washing Machines 1",19,1725.00,54
+286,"Watches 3",53,4075.00,118
+287,"Watches 2",53,3325.00,103
+288,"Watches 1",53,2575.00,88
+289,"Winter Wear 3",40,3750.00,105
+290,"Winter Wear 2",40,3000.00,90
+291,"Winter Wear 1",40,2250.00,75
+292,"Womens Clothing 3",33,3575.00,98
+293,"Womens Clothing 2",33,2825.00,83
+294,"Womens Clothing 1",33,2075.00,68
+295,"Womens Shoes 3",43,3825.00,108
+296,"Womens Shoes 2",43,3075.00,93
+297,"Womens Shoes 1",43,2325.00,78
+298,"Womens Tops 3",36,3650.00,101
+299,"Womens Tops 2",36,2900.00,86
+300,"Womens Tops 1",36,2150.00,71
+512,"Air Conditioners 3",20,3250.00,85
+513,"Air Conditioners 2",20,2500.00,70
+514,"Air Conditioners 1",20,1750.00,55
+515,"Art Supplies 3",70,4500.00,135
+516,"Art Supplies 2",70,3750.00,120
+517,"Art Supplies 1",70,3000.00,105
+518,"Automotive 3",81,4775.00,146
+519,"Automotive 2",81,4025.00,131
+520,"Automotive 1",81,3275.00,116
+521,"Baby Care 3",75,4625.00,140
+522,"Baby Care 2",75,3875.00,125
+523,"Baby Care 1",75,3125.00,110
+524,"Baby Clothing 3",74,4600.00,139
+525,"Baby Clothing 2",74,3850.00,124
+526,"Baby Clothing 1",74,3100.00,109
+527,"Baby Products 3",73,4575.00,138
+528,"Baby Products 2",73,3825.00,123
+529,"Baby Products 1",73,3075.00,108
+530,"Backpacks 3",48,3950.00,113
+531,"Backpacks 2",48,3200.00,98
+532,"Backpacks 1",48,2450.00,83
+533,"Bags 3",47,3925.00,112
+534,"Bags 2",47,3175.00,97
+535,"Bags 1",47,2425.00,82
+536,"Bakeware 3",23,3325.00,88
+537,"Bakeware 2",23,2575.00,73
+538,"Bakeware 1",23,1825.00,58
+539,"Beauty 3",55,4125.00,120
+540,"Beauty 2",55,3375.00,105
+541,"Beauty 1",55,2625.00,90
+542,"Bedding 3",28,3450.00,93
+543,"Bedding 2",28,2700.00,78
+544,"Bedding 1",28,1950.00,63
+545,"Beverages 3",89,4975.00,154
+546,"Beverages 2",89,4225.00,139
+547,"Beverages 1",89,3475.00,124
+548,"Bike Accessories 3",83,4825.00,148
+549,"Bike Accessories 2",83,4075.00,133
+550,"Bike Accessories 1",83,3325.00,118
+551,"Bluetooth Speakers 3",13,3075.00,78
+552,"Bluetooth Speakers 2",13,2325.00,63
+553,"Bluetooth Speakers 1",13,1575.00,48
+554,"Books 3",61,4275.00,126
+555,"Books 2",61,3525.00,111
+556,"Books 1",61,2775.00,96
+557,"Camera Accessories 3",11,3025.00,76
+558,"Camera Accessories 2",11,2275.00,61
+559,"Camera Accessories 1",11,1525.00,46
+560,"Cameras 3",10,3000.00,75
+561,"Cameras 2",10,2250.00,60
+562,"Cameras 1",10,1500.00,45
+563,"Car Accessories 3",82,4800.00,147
+564,"Car Accessories 2",82,4050.00,132
+565,"Car Accessories 1",82,3300.00,117
+566,"Carpets 3",30,3500.00,95
+567,"Carpets 2",30,2750.00,80
+568,"Carpets 1",30,2000.00,65
+569,"Cleaning Supplies 3",92,5050.00,157
+570,"Cleaning Supplies 2",92,4300.00,142
+571,"Cleaning Supplies 1",92,3550.00,127
+572,"Clothing 3",31,3525.00,96
+573,"Clothing 2",31,2775.00,81
+574,"Clothing 1",31,2025.00,66
+575,"Computer Accessories 3",7,2925.00,72
+576,"Computer Accessories 2",7,2175.00,57
+577,"Computer Accessories 1",7,1425.00,42
+578,"Computer Books 3",65,4375.00,130
+579,"Computer Books 2",65,3625.00,115
+580,"Computer Books 1",65,2875.00,100
+581,"Cookware 3",22,3300.00,87
+582,"Cookware 2",22,2550.00,72
+583,"Cookware 1",22,1800.00,57
+584,"Curtains 3",29,3475.00,94
+585,"Curtains 2",29,2725.00,79
+586,"Curtains 1",29,1975.00,64
+587,"Educational Books 3",62,4300.00,127
+588,"Educational Books 2",62,3550.00,112
+589,"Educational Books 1",62,2800.00,97
+590,"Electronics 3",1,2775.00,66
+591,"Electronics 2",1,2025.00,51
+592,"Electronics 1",1,1275.00,36
+593,"Fiction Books 3",63,4325.00,128
+594,"Fiction Books 2",63,3575.00,113
+595,"Fiction Books 1",63,2825.00,98
+596,"Fitness Equipment 3",77,4675.00,142
+597,"Fitness Equipment 2",77,3925.00,127
+598,"Fitness Equipment 1",77,3175.00,112
+599,"Formal Wear 3",38,3700.00,103
+600,"Formal Wear 2",38,2950.00,88
+601,"Formal Wear 1",38,2200.00,73
+602,"Furniture 3",24,3350.00,89
+603,"Furniture 2",24,2600.00,74
+604,"Furniture 1",24,1850.00,59
+605,"Games 3",72,4550.00,137
+606,"Games 2",72,3800.00,122
+607,"Games 1",72,3050.00,107
+608,"Gaming 3",95,5125.00,160
+609,"Gaming 2",95,4375.00,145
+610,"Gaming 1",95,3625.00,130
+611,"Gaming Accessories 3",96,5150.00,161
+612,"Gaming Accessories 2",96,4400.00,146
+613,"Gaming Accessories 1",96,3650.00,131
+614,"Gardening 3",85,4875.00,150
+615,"Gardening 2",85,4125.00,135
+616,"Gardening 1",85,3375.00,120
+617,"Gift Items 3",98,5200.00,163
+618,"Gift Items 2",98,4450.00,148
+619,"Gift Items 1",98,3700.00,133
+620,"Groceries 3",87,4925.00,152
+621,"Groceries 2",87,4175.00,137
+622,"Groceries 1",87,3425.00,122
+623,"Gym Accessories 3",80,4750.00,145
+624,"Gym Accessories 2",80,4000.00,130
+625,"Gym Accessories 1",80,3250.00,115
+626,"Haircare 3",57,4175.00,122
+627,"Haircare 2",57,3425.00,107
+628,"Haircare 1",57,2675.00,92
+629,"Handbags 3",49,3975.00,114
+630,"Handbags 2",49,3225.00,99
+631,"Handbags 1",49,2475.00,84
+632,"Headphones 3",12,3050.00,77
+633,"Headphones 2",12,2300.00,62
+634,"Headphones 1",12,1550.00,47
+635,"Health Care 3",91,5025.00,156
+636,"Health Care 2",91,4275.00,141
+637,"Health Care 1",91,3525.00,126
+638,"Home Appliances 3",16,3150.00,81
+639,"Home Appliances 2",16,2400.00,66
+640,"Home Appliances 1",16,1650.00,51
+641,"Home Decor 3",26,3400.00,91
+642,"Home Decor 2",26,2650.00,76
+643,"Home Decor 1",26,1900.00,61
+644,"Home Security 3",99,5225.00,164
+645,"Home Security 2",99,4475.00,149
+646,"Home Security 1",99,3725.00,134
+647,"Indoor Games 3",79,4725.00,144
+648,"Indoor Games 2",79,3975.00,129
+649,"Indoor Games 1",79,3225.00,114
+650,"Jeans 3",37,3675.00,102
+651,"Jeans 2",37,2925.00,87
+652,"Jeans 1",37,2175.00,72
+653,"Jewelry 3",52,4050.00,117
+654,"Jewelry 2",52,3300.00,102
+655,"Jewelry 1",52,2550.00,87
+656,"Kids Clothing 3",34,3600.00,99
+657,"Kids Clothing 2",34,2850.00,84
+658,"Kids Clothing 1",34,2100.00,69
+659,"Kids Shoes 3",44,3850.00,109
+660,"Kids Shoes 2",44,3100.00,94
+661,"Kids Shoes 1",44,2350.00,79
+662,"Kitchen Appliances 3",17,3175.00,82
+663,"Kitchen Appliances 2",17,2425.00,67
+664,"Kitchen Appliances 1",17,1675.00,52
+665,"Laptop Accessories 3",5,2875.00,70
+666,"Laptop Accessories 2",5,2125.00,55
+667,"Laptop Accessories 1",5,1375.00,40
+668,"Laptops 3",4,2850.00,69
+669,"Laptops 2",4,2100.00,54
+670,"Laptops 1",4,1350.00,39
+671,"Lighting 3",27,3425.00,92
+672,"Lighting 2",27,2675.00,77
+673,"Lighting 1",27,1925.00,62
+674,"Makeup 3",58,4200.00,123
+675,"Makeup 2",58,3450.00,108
+676,"Makeup 1",58,2700.00,93
+677,"Mens Clothing 3",32,3550.00,97
+678,"Mens Clothing 2",32,2800.00,82
+679,"Mens Clothing 1",32,2050.00,67
+680,"Mens Shoes 3",42,3800.00,107
+681,"Mens Shoes 2",42,3050.00,92
+682,"Mens Shoes 1",42,2300.00,77
+683,"Mens T-Shirts 3",35,3625.00,100
+684,"Mens T-Shirts 2",35,2875.00,85
+685,"Mens T-Shirts 1",35,2125.00,70
+686,"Microwaves 3",21,3275.00,86
+687,"Microwaves 2",21,2525.00,71
+688,"Microwaves 1",21,1775.00,56
+689,"Mobile Accessories 3",3,2825.00,68
+690,"Mobile Accessories 2",3,2075.00,53
+691,"Mobile Accessories 1",3,1325.00,38
+692,"Mobile Phones 3",2,2800.00,67
+693,"Mobile Phones 2",2,2050.00,52
+694,"Mobile Phones 1",2,1300.00,37
+695,"Monitors 3",8,2950.00,73
+696,"Monitors 2",8,2200.00,58
+697,"Monitors 1",8,1450.00,43
+698,"Musical Instruments 3",94,5100.00,159
+699,"Musical Instruments 2",94,4350.00,144
+700,"Musical Instruments 1",94,3600.00,129
+701,"Non-Fiction Books 3",64,4350.00,129
+702,"Non-Fiction Books 2",64,3600.00,114
+703,"Non-Fiction Books 1",64,2850.00,99
+704,"Notebooks 3",69,4475.00,134
+705,"Notebooks 2",69,3725.00,119
+706,"Notebooks 1",69,2975.00,104
+707,"Office Furniture 3",25,3375.00,90
+708,"Office Furniture 2",25,2625.00,75
+709,"Office Furniture 1",25,1875.00,60
+710,"Organic Food 3",90,5000.00,155
+711,"Organic Food 2",90,4250.00,140
+712,"Organic Food 1",90,3500.00,125
+713,"Outdoor Sports 3",78,4700.00,143
+714,"Outdoor Sports 2",78,3950.00,128
+715,"Outdoor Sports 1",78,3200.00,113
+716,"Pens 3",68,4450.00,133
+717,"Pens 2",68,3700.00,118
+718,"Pens 1",68,2950.00,103
+719,"Perfumes 3",59,4225.00,124
+720,"Perfumes 2",59,3475.00,109
+721,"Perfumes 1",59,2725.00,94
+722,"Personal Care 3",60,4250.00,125
+723,"Personal Care 2",60,3500.00,110
+724,"Personal Care 1",60,2750.00,95
+725,"Pet Supplies 3",86,4900.00,151
+726,"Pet Supplies 2",86,4150.00,136
+727,"Pet Supplies 1",86,3400.00,121
+728,"Printers 3",9,2975.00,74
+729,"Printers 2",9,2225.00,59
+730,"Printers 1",9,1475.00,44
+731,"Refrigerators 3",18,3200.00,83
+732,"Refrigerators 2",18,2450.00,68
+733,"Refrigerators 1",18,1700.00,53
+734,"Sandals 3",46,3900.00,111
+735,"Sandals 2",46,3150.00,96
+736,"Sandals 1",46,2400.00,81
+737,"School Supplies 3",66,4400.00,131
+738,"School Supplies 2",66,3650.00,116
+739,"School Supplies 1",66,2900.00,101
+740,"Shoes 3",41,3775.00,106
+741,"Shoes 2",41,3025.00,91
+742,"Shoes 1",41,2275.00,76
+743,"Skincare 3",56,4150.00,121
+744,"Skincare 2",56,3400.00,106
+745,"Skincare 1",56,2650.00,91
+746,"Smart Home Devices 3",100,5250.00,165
+747,"Smart Home Devices 2",100,4500.00,150
+748,"Smart Home Devices 1",100,3750.00,135
+749,"Smart Watches 3",14,3100.00,79
+750,"Smart Watches 2",14,2350.00,64
+751,"Smart Watches 1",14,1600.00,49
+752,"Snacks 3",88,4950.00,153
+753,"Snacks 2",88,4200.00,138
+754,"Snacks 1",88,3450.00,123
+755,"Software 3",97,5175.00,162
+756,"Software 2",97,4425.00,147
+757,"Software 1",97,3675.00,132
+758,"Sports 3",76,4650.00,141
+759,"Sports 2",76,3900.00,126
+760,"Sports 1",76,3150.00,111
+761,"Sports Shoes 3",45,3875.00,110
+762,"Sports Shoes 2",45,3125.00,95
+763,"Sports Shoes 1",45,2375.00,80
+764,"Sports Wear 3",39,3725.00,104
+765,"Sports Wear 2",39,2975.00,89
+766,"Sports Wear 1",39,2225.00,74
+767,"Stationery 3",67,4425.00,132
+768,"Stationery 2",67,3675.00,117
+769,"Stationery 1",67,2925.00,102
+770,"Sunglasses 3",54,4100.00,119
+771,"Sunglasses 2",54,3350.00,104
+772,"Sunglasses 1",54,2600.00,89
+773,"Tablets 3",6,2900.00,71
+774,"Tablets 2",6,2150.00,56
+775,"Tablets 1",6,1400.00,41
+776,"Televisions 3",15,3125.00,80
+777,"Televisions 2",15,2375.00,65
+778,"Televisions 1",15,1625.00,50
+779,"Tools 3",84,4850.00,149
+780,"Tools 2",84,4100.00,134
+781,"Tools 1",84,3350.00,119
+782,"Toys 3",71,4525.00,136
+783,"Toys 2",71,3775.00,121
+784,"Toys 1",71,3025.00,106
+785,"Travel Accessories 3",93,5075.00,158
+786,"Travel Accessories 2",93,4325.00,143
+787,"Travel Accessories 1",93,3575.00,128
+788,"Travel Bags 3",50,4000.00,115
+789,"Travel Bags 2",50,3250.00,100
+790,"Travel Bags 1",50,2500.00,85
+791,"Wallets 3",51,4025.00,116
+792,"Wallets 2",51,3275.00,101
+793,"Wallets 1",51,2525.00,86
+794,"Washing Machines 3",19,3225.00,84
+795,"Washing Machines 2",19,2475.00,69
+796,"Washing Machines 1",19,1725.00,54
+797,"Watches 3",53,4075.00,118
+798,"Watches 2",53,3325.00,103
+799,"Watches 1",53,2575.00,88
+800,"Winter Wear 3",40,3750.00,105
+801,"Winter Wear 2",40,3000.00,90
+802,"Winter Wear 1",40,2250.00,75
+803,"Womens Clothing 3",33,3575.00,98
+804,"Womens Clothing 2",33,2825.00,83
+805,"Womens Clothing 1",33,2075.00,68
+806,"Womens Shoes 3",43,3825.00,108
+807,"Womens Shoes 2",43,3075.00,93
+808,"Womens Shoes 1",43,2325.00,78
+809,"Womens Tops 3",36,3650.00,101
+810,"Womens Tops 2",36,2900.00,86
+811,"Womens Tops 1",36,2150.00,71
+1023,"Air Conditioners 3",20,3250.00,85
+1024,"Air Conditioners 2",20,2500.00,70
+1025,"Air Conditioners 1",20,1750.00,55
+1026,"Art Supplies 3",70,4500.00,135
+1027,"Art Supplies 2",70,3750.00,120
+1028,"Art Supplies 1",70,3000.00,105
+1029,"Automotive 3",81,4775.00,146
+1030,"Automotive 2",81,4025.00,131
+1031,"Automotive 1",81,3275.00,116
+1032,"Baby Care 3",75,4625.00,140
+1033,"Baby Care 2",75,3875.00,125
+1034,"Baby Care 1",75,3125.00,110
+1035,"Baby Clothing 3",74,4600.00,139
+1036,"Baby Clothing 2",74,3850.00,124
+1037,"Baby Clothing 1",74,3100.00,109
+1038,"Baby Products 3",73,4575.00,138
+1039,"Baby Products 2",73,3825.00,123
+1040,"Baby Products 1",73,3075.00,108
+1041,"Backpacks 3",48,3950.00,113
+1042,"Backpacks 2",48,3200.00,98
+1043,"Backpacks 1",48,2450.00,83
+1044,"Bags 3",47,3925.00,112
+1045,"Bags 2",47,3175.00,97
+1046,"Bags 1",47,2425.00,82
+1047,"Bakeware 3",23,3325.00,88
+1048,"Bakeware 2",23,2575.00,73
+1049,"Bakeware 1",23,1825.00,58
+1050,"Beauty 3",55,4125.00,120
+1051,"Beauty 2",55,3375.00,105
+1052,"Beauty 1",55,2625.00,90
+1053,"Bedding 3",28,3450.00,93
+1054,"Bedding 2",28,2700.00,78
+1055,"Bedding 1",28,1950.00,63
+1056,"Beverages 3",89,4975.00,154
+1057,"Beverages 2",89,4225.00,139
+1058,"Beverages 1",89,3475.00,124
+1059,"Bike Accessories 3",83,4825.00,148
+1060,"Bike Accessories 2",83,4075.00,133
+1061,"Bike Accessories 1",83,3325.00,118
+1062,"Bluetooth Speakers 3",13,3075.00,78
+1063,"Bluetooth Speakers 2",13,2325.00,63
+1064,"Bluetooth Speakers 1",13,1575.00,48
+1065,"Books 3",61,4275.00,126
+1066,"Books 2",61,3525.00,111
+1067,"Books 1",61,2775.00,96
+1068,"Camera Accessories 3",11,3025.00,76
+1069,"Camera Accessories 2",11,2275.00,61
+1070,"Camera Accessories 1",11,1525.00,46
+1071,"Cameras 3",10,3000.00,75
+1072,"Cameras 2",10,2250.00,60
+1073,"Cameras 1",10,1500.00,45
+1074,"Car Accessories 3",82,4800.00,147
+1075,"Car Accessories 2",82,4050.00,132
+1076,"Car Accessories 1",82,3300.00,117
+1077,"Carpets 3",30,3500.00,95
+1078,"Carpets 2",30,2750.00,80
+1079,"Carpets 1",30,2000.00,65
+1080,"Cleaning Supplies 3",92,5050.00,157
+1081,"Cleaning Supplies 2",92,4300.00,142
+1082,"Cleaning Supplies 1",92,3550.00,127
+1083,"Clothing 3",31,3525.00,96
+1084,"Clothing 2",31,2775.00,81
+1085,"Clothing 1",31,2025.00,66
+1086,"Computer Accessories 3",7,2925.00,72
+1087,"Computer Accessories 2",7,2175.00,57
+1088,"Computer Accessories 1",7,1425.00,42
+1089,"Computer Books 3",65,4375.00,130
+1090,"Computer Books 2",65,3625.00,115
+1091,"Computer Books 1",65,2875.00,100
+1092,"Cookware 3",22,3300.00,87
+1093,"Cookware 2",22,2550.00,72
+1094,"Cookware 1",22,1800.00,57
+1095,"Curtains 3",29,3475.00,94
+1096,"Curtains 2",29,2725.00,79
+1097,"Curtains 1",29,1975.00,64
+1098,"Educational Books 3",62,4300.00,127
+1099,"Educational Books 2",62,3550.00,112
+1100,"Educational Books 1",62,2800.00,97
+1101,"Electronics 3",1,2775.00,66
+1102,"Electronics 2",1,2025.00,51
+1103,"Electronics 1",1,1275.00,36
+1104,"Fiction Books 3",63,4325.00,128
+1105,"Fiction Books 2",63,3575.00,113
+1106,"Fiction Books 1",63,2825.00,98
+1107,"Fitness Equipment 3",77,4675.00,142
+1108,"Fitness Equipment 2",77,3925.00,127
+1109,"Fitness Equipment 1",77,3175.00,112
+1110,"Formal Wear 3",38,3700.00,103
+1111,"Formal Wear 2",38,2950.00,88
+1112,"Formal Wear 1",38,2200.00,73
+1113,"Furniture 3",24,3350.00,89
+1114,"Furniture 2",24,2600.00,74
+1115,"Furniture 1",24,1850.00,59
+1116,"Games 3",72,4550.00,137
+1117,"Games 2",72,3800.00,122
+1118,"Games 1",72,3050.00,107
+1119,"Gaming 3",95,5125.00,160
+1120,"Gaming 2",95,4375.00,145
+1121,"Gaming 1",95,3625.00,130
+1122,"Gaming Accessories 3",96,5150.00,161
+1123,"Gaming Accessories 2",96,4400.00,146
+1124,"Gaming Accessories 1",96,3650.00,131
+1125,"Gardening 3",85,4875.00,150
+1126,"Gardening 2",85,4125.00,135
+1127,"Gardening 1",85,3375.00,120
+1128,"Gift Items 3",98,5200.00,163
+1129,"Gift Items 2",98,4450.00,148
+1130,"Gift Items 1",98,3700.00,133
+1131,"Groceries 3",87,4925.00,152
+1132,"Groceries 2",87,4175.00,137
+1133,"Groceries 1",87,3425.00,122
+1134,"Gym Accessories 3",80,4750.00,145
+1135,"Gym Accessories 2",80,4000.00,130
+1136,"Gym Accessories 1",80,3250.00,115
+1137,"Haircare 3",57,4175.00,122
+1138,"Haircare 2",57,3425.00,107
+1139,"Haircare 1",57,2675.00,92
+1140,"Handbags 3",49,3975.00,114
+1141,"Handbags 2",49,3225.00,99
+1142,"Handbags 1",49,2475.00,84
+1143,"Headphones 3",12,3050.00,77
+1144,"Headphones 2",12,2300.00,62
+1145,"Headphones 1",12,1550.00,47
+1146,"Health Care 3",91,5025.00,156
+1147,"Health Care 2",91,4275.00,141
+1148,"Health Care 1",91,3525.00,126
+1149,"Home Appliances 3",16,3150.00,81
+1150,"Home Appliances 2",16,2400.00,66
+1151,"Home Appliances 1",16,1650.00,51
+1152,"Home Decor 3",26,3400.00,91
+1153,"Home Decor 2",26,2650.00,76
+1154,"Home Decor 1",26,1900.00,61
+1155,"Home Security 3",99,5225.00,164
+1156,"Home Security 2",99,4475.00,149
+1157,"Home Security 1",99,3725.00,134
+1158,"Indoor Games 3",79,4725.00,144
+1159,"Indoor Games 2",79,3975.00,129
+1160,"Indoor Games 1",79,3225.00,114
+1161,"Jeans 3",37,3675.00,102
+1162,"Jeans 2",37,2925.00,87
+1163,"Jeans 1",37,2175.00,72
+1164,"Jewelry 3",52,4050.00,117
+1165,"Jewelry 2",52,3300.00,102
+1166,"Jewelry 1",52,2550.00,87
+1167,"Kids Clothing 3",34,3600.00,99
+1168,"Kids Clothing 2",34,2850.00,84
+1169,"Kids Clothing 1",34,2100.00,69
+1170,"Kids Shoes 3",44,3850.00,109
+1171,"Kids Shoes 2",44,3100.00,94
+1172,"Kids Shoes 1",44,2350.00,79
+1173,"Kitchen Appliances 3",17,3175.00,82
+1174,"Kitchen Appliances 2",17,2425.00,67
+1175,"Kitchen Appliances 1",17,1675.00,52
+1176,"Laptop Accessories 3",5,2875.00,70
+1177,"Laptop Accessories 2",5,2125.00,55
+1178,"Laptop Accessories 1",5,1375.00,40
+1179,"Laptops 3",4,2850.00,69
+1180,"Laptops 2",4,2100.00,54
+1181,"Laptops 1",4,1350.00,39
+1182,"Lighting 3",27,3425.00,92
+1183,"Lighting 2",27,2675.00,77
+1184,"Lighting 1",27,1925.00,62
+1185,"Makeup 3",58,4200.00,123
+1186,"Makeup 2",58,3450.00,108
+1187,"Makeup 1",58,2700.00,93
+1188,"Mens Clothing 3",32,3550.00,97
+1189,"Mens Clothing 2",32,2800.00,82
+1190,"Mens Clothing 1",32,2050.00,67
+1191,"Mens Shoes 3",42,3800.00,107
+1192,"Mens Shoes 2",42,3050.00,92
+1193,"Mens Shoes 1",42,2300.00,77
+1194,"Mens T-Shirts 3",35,3625.00,100
+1195,"Mens T-Shirts 2",35,2875.00,85
+1196,"Mens T-Shirts 1",35,2125.00,70
+1197,"Microwaves 3",21,3275.00,86
+1198,"Microwaves 2",21,2525.00,71
+1199,"Microwaves 1",21,1775.00,56
+1200,"Mobile Accessories 3",3,2825.00,68
+1201,"Mobile Accessories 2",3,2075.00,53
+1202,"Mobile Accessories 1",3,1325.00,38
+1203,"Mobile Phones 3",2,2800.00,67
+1204,"Mobile Phones 2",2,2050.00,52
+1205,"Mobile Phones 1",2,1300.00,37
+1206,"Monitors 3",8,2950.00,73
+1207,"Monitors 2",8,2200.00,58
+1208,"Monitors 1",8,1450.00,43
+1209,"Musical Instruments 3",94,5100.00,159
+1210,"Musical Instruments 2",94,4350.00,144
+1211,"Musical Instruments 1",94,3600.00,129
+1212,"Non-Fiction Books 3",64,4350.00,129
+1213,"Non-Fiction Books 2",64,3600.00,114
+1214,"Non-Fiction Books 1",64,2850.00,99
+1215,"Notebooks 3",69,4475.00,134
+1216,"Notebooks 2",69,3725.00,119
+1217,"Notebooks 1",69,2975.00,104
+1218,"Office Furniture 3",25,3375.00,90
+1219,"Office Furniture 2",25,2625.00,75
+1220,"Office Furniture 1",25,1875.00,60
+1221,"Organic Food 3",90,5000.00,155
+1222,"Organic Food 2",90,4250.00,140
+1223,"Organic Food 1",90,3500.00,125
+1224,"Outdoor Sports 3",78,4700.00,143
+1225,"Outdoor Sports 2",78,3950.00,128
+1226,"Outdoor Sports 1",78,3200.00,113
+1227,"Pens 3",68,4450.00,133
+1228,"Pens 2",68,3700.00,118
+1229,"Pens 1",68,2950.00,103
+1230,"Perfumes 3",59,4225.00,124
+1231,"Perfumes 2",59,3475.00,109
+1232,"Perfumes 1",59,2725.00,94
+1233,"Personal Care 3",60,4250.00,125
+1234,"Personal Care 2",60,3500.00,110
+1235,"Personal Care 1",60,2750.00,95
+1236,"Pet Supplies 3",86,4900.00,151
+1237,"Pet Supplies 2",86,4150.00,136
+1238,"Pet Supplies 1",86,3400.00,121
+1239,"Printers 3",9,2975.00,74
+1240,"Printers 2",9,2225.00,59
+1241,"Printers 1",9,1475.00,44
+1242,"Refrigerators 3",18,3200.00,83
+1243,"Refrigerators 2",18,2450.00,68
+1244,"Refrigerators 1",18,1700.00,53
+1245,"Sandals 3",46,3900.00,111
+1246,"Sandals 2",46,3150.00,96
+1247,"Sandals 1",46,2400.00,81
+1248,"School Supplies 3",66,4400.00,131
+1249,"School Supplies 2",66,3650.00,116
+1250,"School Supplies 1",66,2900.00,101
+1251,"Shoes 3",41,3775.00,106
+1252,"Shoes 2",41,3025.00,91
+1253,"Shoes 1",41,2275.00,76
+1254,"Skincare 3",56,4150.00,121
+1255,"Skincare 2",56,3400.00,106
+1256,"Skincare 1",56,2650.00,91
+1257,"Smart Home Devices 3",100,5250.00,165
+1258,"Smart Home Devices 2",100,4500.00,150
+1259,"Smart Home Devices 1",100,3750.00,135
+1260,"Smart Watches 3",14,3100.00,79
+1261,"Smart Watches 2",14,2350.00,64
+1262,"Smart Watches 1",14,1600.00,49
+1263,"Snacks 3",88,4950.00,153
+1264,"Snacks 2",88,4200.00,138
+1265,"Snacks 1",88,3450.00,123
+1266,"Software 3",97,5175.00,162
+1267,"Software 2",97,4425.00,147
+1268,"Software 1",97,3675.00,132
+1269,"Sports 3",76,4650.00,141
+1270,"Sports 2",76,3900.00,126
+1271,"Sports 1",76,3150.00,111
+1272,"Sports Shoes 3",45,3875.00,110
+1273,"Sports Shoes 2",45,3125.00,95
+1274,"Sports Shoes 1",45,2375.00,80
+1275,"Sports Wear 3",39,3725.00,104
+1276,"Sports Wear 2",39,2975.00,89
+1277,"Sports Wear 1",39,2225.00,74
+1278,"Stationery 3",67,4425.00,132
+1279,"Stationery 2",67,3675.00,117
+1280,"Stationery 1",67,2925.00,102
+1281,"Sunglasses 3",54,4100.00,119
+1282,"Sunglasses 2",54,3350.00,104
+1283,"Sunglasses 1",54,2600.00,89
+1284,"Tablets 3",6,2900.00,71
+1285,"Tablets 2",6,2150.00,56
+1286,"Tablets 1",6,1400.00,41
+1287,"Televisions 3",15,3125.00,80
+1288,"Televisions 2",15,2375.00,65
+1289,"Televisions 1",15,1625.00,50
+1290,"Tools 3",84,4850.00,149
+1291,"Tools 2",84,4100.00,134
+1292,"Tools 1",84,3350.00,119
+1293,"Toys 3",71,4525.00,136
+1294,"Toys 2",71,3775.00,121
+1295,"Toys 1",71,3025.00,106
+1296,"Travel Accessories 3",93,5075.00,158
+1297,"Travel Accessories 2",93,4325.00,143
+1298,"Travel Accessories 1",93,3575.00,128
+1299,"Travel Bags 3",50,4000.00,115
+1300,"Travel Bags 2",50,3250.00,100
+1301,"Travel Bags 1",50,2500.00,85
+1302,"Wallets 3",51,4025.00,116
+1303,"Wallets 2",51,3275.00,101
+1304,"Wallets 1",51,2525.00,86
+1305,"Washing Machines 3",19,3225.00,84
+1306,"Washing Machines 2",19,2475.00,69
+1307,"Washing Machines 1",19,1725.00,54
+1308,"Watches 3",53,4075.00,118
+1309,"Watches 2",53,3325.00,103
+1310,"Watches 1",53,2575.00,88
+1311,"Winter Wear 3",40,3750.00,105
+1312,"Winter Wear 2",40,3000.00,90
+1313,"Winter Wear 1",40,2250.00,75
+1314,"Womens Clothing 3",33,3575.00,98
+1315,"Womens Clothing 2",33,2825.00,83
+1316,"Womens Clothing 1",33,2075.00,68
+1317,"Womens Shoes 3",43,3825.00,108
+1318,"Womens Shoes 2",43,3075.00,93
+1319,"Womens Shoes 1",43,2325.00,78
+1320,"Womens Tops 3",36,3650.00,101
+1321,"Womens Tops 2",36,2900.00,86
+1322,"Womens Tops 1",36,2150.00,71
